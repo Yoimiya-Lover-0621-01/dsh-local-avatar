@@ -1,0 +1,4 @@
+# Insert only this bundle's own row. No shipped plugin row is replaced.
+- insert:
+    - id: local-avatar
+      name: '@local/local-avatar'
