@@ -40,9 +40,9 @@
                      "avatar",
                      "plugin"
                  ],
-    "homepage":  "https://gitee.com/\u003cyour-gitee-id\u003e/dsh-local-avatar#readme",
+    "homepage":  "https://github.com/Yoimiya-Lover-0621-01/dsh-local-avatar#readme",
     "repository":  {
                        "type":  "git",
-                       "url":  "https://gitee.com/\u003cyour-gitee-id\u003e/dsh-local-avatar.git"
+                       "url":  "https://github.com/Yoimiya-Lover-0621-01/dsh-local-avatar.git"
                    }
 }

@@ -6,6 +6,19 @@
 这个插件允许用一张本地图片覆盖这两个位置，只保存在这台电脑上，不修改
 DeepSeek 账户资料，也不读取、不上传任何凭据。
 
+## 安装
+
+```bash
+# 从 GitHub 安装（推荐）
+dsh plugin add https://github.com/Yoimiya-Lover-0621-01/dsh-local-avatar
+
+# 或从本地目录安装
+dsh plugin add "D:\path\to\dsh-local-avatar"
+```
+
+或在 Harness 的「插件 → 添加插件」里选择本目录。安装后重启/刷新 Web UI，
+即可在 **设置 → 通用设置** 看到「账户头像」一行。
+
 ## 使用
 
 1. 打开 **设置 → 通用设置**。
