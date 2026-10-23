@@ -1,6 +1,6 @@
 # 本地账户头像 (@local/local-avatar)
 
-<a href="https://dsh.market/"><img src="https://img.shields.io/badge/DSH%20Market-%E5%B7%B2%E6%94%B6%E5%BD%95-4D6BFE?style=flat-square&logo=deepseek&logoColor=white" alt="DSH Market 已收录"></a>
+[![DSH Market](https://raw.githubusercontent.com/2BingLing/dsh-market/master/assets/readme/badge-listed-zh.svg)](https://dsh.market/)
 
 给 DeepSeek Harness Web UI 用的本地账户头像覆盖插件。
 
